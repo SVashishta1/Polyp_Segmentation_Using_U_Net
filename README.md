@@ -9,14 +9,14 @@ Dataset:
 CVC-ClinicDB Dataset: https://polyp.grand-challenge.org/CVCClinicDB/
 Libraries/Modules:
 
-Pillow (PIL): Pillow Documentation
-NumPy: NumPy Documentation
-TensorFlow: TensorFlow Documentation
-pandas: pandas Documentation
-glob: glob Documentation
-scikit-learn (train_test_split): scikit-learn Documentation
-tqdm: tqdm Documentation
-Matplotlib: Matplotlib Documentation
+Libraries/Modules
+	•	Image Processing: Pillow (PIL)
+	•	Numerical Computing: NumPy
+	•	Deep Learning: TensorFlow/Keras
+	•	Data Handling: pandas, glob
+	•	Data Splitting: scikit-learn (train_test_split)
+	•	Progress Monitoring: tqdm
+	•	Visualization: Matplotlib
 
 
 
@@ -28,9 +28,9 @@ Results
 	•	Sample Outputs:
 	•	Input Image:
 
-	•	Ground Truth Mask, Predicted Mask:
- - **Input Image**:
-  ![Input Image](results/1.png "Sample Input")
+
+ - **Original Image, Ground Truth Mask, Predicted Mask:**:
+  ![Input Image](results/1.png "Sample output")
 
 Technologies
 	•	Programming Language: Python
