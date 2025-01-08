@@ -38,7 +38,13 @@ Technologies
 	•	Other Libraries: NumPy, Pandas, Matplotlib
 	•	Tools: Jupyter Notebook
 
-License
+ 
+Copyright
+	•	Images from the folder ‘Original’ are the property of Hospital Clinic, Barcelona, Spain.
+	•	Images from the folder ‘Ground Truth’ are the property of Computer Vision Center, Barcelona, Spain.
+Referencing
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+If using this dataset or referencing this work, please cite:
+
+	Bernal, J., Sánchez, F. J., Fernández-Esparrach, G., Gil, D., Rodríguez, C., & Vilariño, F. (2015). WM-DOVA maps for accurate polyp highlighting in colonoscopy: Validation vs. saliency maps from physicians. Computerized Medical Imaging and Graphics, 43, 99-111.
 
