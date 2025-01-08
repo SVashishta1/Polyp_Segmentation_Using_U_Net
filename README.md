@@ -4,30 +4,22 @@ Overview
 
 This project utilizes the U-Net architecture for segmenting polyps from medical images. Accurate polyp segmentation is crucial for early detection and diagnosis of diseases like colorectal cancer. The model was trained and evaluated on a dataset of medical images and corresponding masks.
 
-Dataset
-	•	Source: Roboflow
-	•	Contents:
-	•	Images: .jpg format
-	•	Masks: .png format
-	•	Class Mapping: _classes.csv
-	•	Structure:
-	•	train/: Training data
-	•	validation/: Validation data
-	•	test/: Testing data
+Dataset:
+
+CVC-ClinicDB Dataset: https://polyp.grand-challenge.org/CVCClinicDB/
+Libraries/Modules:
+
+Pillow (PIL): Pillow Documentation
+NumPy: NumPy Documentation
+TensorFlow: TensorFlow Documentation
+pandas: pandas Documentation
+glob: glob Documentation
+scikit-learn (train_test_split): scikit-learn Documentation
+tqdm: tqdm Documentation
+Matplotlib: Matplotlib Documentation
 
 
 
-Usage
-	1.	Open the Jupyter Notebook:
-
-jupyter notebook final_project_sarabu_vashishta_sharma_dl.ipynb
-
-
-	2.	Run the cells step-by-step to:
-	•	Preprocess data
-	•	Train the U-Net model
-	•	Evaluate performance
-	•	Visualize results
 
 Results
 	•	Performance Metrics:
@@ -37,6 +29,8 @@ Results
 	•	Input Image:
 
 	•	Ground Truth Mask, Predicted Mask:
+ - **Input Image**:
+  ![Input Image](results/1.png "Sample Input")
 
 Technologies
 	•	Programming Language: Python
