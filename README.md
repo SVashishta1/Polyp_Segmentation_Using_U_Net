@@ -1,5 +1,3 @@
-Here is a structured and concise README.md for your project:
-
 Polyp Segmentation Using U-Net
 
 Overview
