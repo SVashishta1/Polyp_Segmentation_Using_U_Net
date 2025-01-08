@@ -15,20 +15,7 @@ Dataset
 	•	validation/: Validation data
 	•	test/: Testing data
 
-Installation
-	1.	Clone the repository:
 
-git clone https://github.com/your-username/polyp-segmentation-unet.git
-
-
-	2.	Navigate to the project directory:
-
-cd polyp-segmentation-unet
-
-
-	3.	Install dependencies:
-
-pip install -r requirements.txt
 
 Usage
 	1.	Open the Jupyter Notebook:
@@ -49,9 +36,7 @@ Results
 	•	Sample Outputs:
 	•	Input Image:
 
-	•	Ground Truth Mask:
-
-	•	Predicted Mask:
+	•	Ground Truth Mask, Predicted Mask:
 
 Technologies
 	•	Programming Language: Python
