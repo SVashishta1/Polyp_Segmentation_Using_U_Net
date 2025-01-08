@@ -30,7 +30,7 @@ Results
 
 
  - **Original Image, Ground Truth Mask, Predicted Mask:**:
-  ![Input Image](results/1.png "Sample output")
+  ![Output](results/1.png "Sample output")
 
 Technologies
 	•	Programming Language: Python
