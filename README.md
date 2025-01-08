@@ -26,7 +26,7 @@ Results
 	•	Dice Coefficient: 92%
 	•	IoU: 89%
 	•	Sample Outputs:
-	•	Input Image:
+	
 
 
  - **Original Image, Ground Truth Mask, Predicted Mask:**:
